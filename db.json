@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Taza",
+    "description": "Taza sublimable",
+    "price": 50,
+    "thumbnail": "#",
+    "stock": 30,
+    "code": "PROD0"
+  },
+  {
+    "id": 2,
+    "title": "TV",
+    "description": "Samdung 21Pulg",
+    "price": 20560,
+    "thumbnail": "#",
+    "stock": 70,
+    "code": "PROD1"
+  },
+  {
+    "id": 4,
+    "title": "Pampers",
+    "description": "Confort y cuidado",
+    "price": 1020,
+    "thumbnail": "#",
+    "stock": "50",
+    "code": "PROD3"
+  },
+  {
+    "id": 5,
+    "title": "Taza",
+    "description": "Taza sublimable",
+    "price": 50,
+    "thumbnail": "#",
+    "stock": 30,
+    "code": "PROD4"
+  },
+  {
+    "id": 6,
+    "title": "TV",
+    "description": "Samdung 21Pulg",
+    "price": 20560,
+    "thumbnail": "#",
+    "stock": 70,
+    "code": "PROD5"
+  },
+  {
+    "id": 7,
+    "title": "Pampers",
+    "description": "Confort y cuidado",
+    "price": 1020,
+    "thumbnail": "#",
+    "stock": "50",
+    "code": "PROD6"
+  },
+  {
+    "id": 8,
+    "title": "Taza",
+    "description": "Taza sublimable",
+    "price": 50,
+    "thumbnail": "#",
+    "stock": 30,
+    "code": "PROD7"
+  },
+  {
+    "id": 9,
+    "title": "TV",
+    "description": "Samdung 21Pulg",
+    "price": 20560,
+    "thumbnail": "#",
+    "stock": 70,
+    "code": "PROD8"
+  },
+  {
+    "id": 10,
+    "title": "Pampers",
+    "description": "Confort y cuidado",
+    "price": 1020,
+    "thumbnail": "#",
+    "stock": "50",
+    "code": "PROD9"
+  },
+  {
+    "id": 11,
+    "title": "Pampers",
+    "description": "Confort y cuidado",
+    "price": 1020,
+    "thumbnail": "#",
+    "stock": "50",
+    "code": "PROD10"
+  }
+]
